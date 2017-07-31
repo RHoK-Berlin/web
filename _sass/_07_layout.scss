@@ -68,6 +68,11 @@ body.video cite { color: #fff; }
 /* Masthead
 ------------------------------------------------------------------- */
 
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #masthead {
     background-color: $primary-color;
 }
