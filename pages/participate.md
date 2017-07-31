@@ -14,3 +14,14 @@ If you want to sponsor please the event, work as a volunteer or contribute with 
 
 
 <a href="https://www.meetup.com/pt-BR/socialdigital/events/241811490/" class="button alert">Subscribe on Meetup</a>
+
+
+<iframe
+	src="https://hackdash.org/embed/dashboards/hackbe?"
+	width="100%"
+	height="640px"
+	frameborder="0"
+	allowtransparency="true"
+	title="Random Hacks of Kindness Berlin on Hackdash"
+	style="background: none transparent;"
+></iframe>
