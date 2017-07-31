@@ -18,7 +18,6 @@ Vermutlich im Januar. Wir arbeiten daran erstmal wieder einen Hackathon auf die 
 
 Folge uns auf Twitter, um frühst möglich Neuigkeiten zu den Berliner Random Hacks of Kindness zu erfahren:
 
-{% include follow.html %}
 
 # Ich will helfen!
 
