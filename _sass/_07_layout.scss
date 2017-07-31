@@ -276,17 +276,17 @@ body.video cite { color: #fff; }
     padding-bottom: 20px;
     background: $footer-bg;
     color: $footer-color;
-    }
 
-    #footer a {
+    & a {
         color: $footer-link-color;
     }
-    #footer h4,
-    #footer h5 {
+    & h4,
+    & h5 {
         letter-spacing: 1px;
-        color: #fff;
         text-transform: uppercase;
+      color: $footer-color;
     }
+}
 
 
 
