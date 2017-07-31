@@ -23,24 +23,19 @@ sidebar: right
 
 ### Day 1
 
- Time  | Saturday, 12 August
- ------------- | ------------- 
- 9h30  | Event begins: snacks and coffee
- 11h00  | Projects Pitches
- 11h30  | Socializing and team finding
- 13h30 | Lunch
- 20h30 | Venue closed for the night
-
-
+Time  | Saturday, 12th August
+------------- | ------------- 
+9h30  | Event begins: Snacks & Coffee
+11h00  | Project Pitches
+11h30  | Socializing and Team Finding
+13h30 | Lunch
+20h30 | Closing for Night
 
 ### Day 2
 
- Time  | Sunday, 13 August
- ------------- | ------------- 
- 9h30  | Snacks and coffee
- 13h30  | Lunch
- 17h30  | Final presentation
- 18h30 | Hackathon ends
-
-
-
+Time  | Sunday, 13th August
+------------- | ------------- 
+9h30  | Snacks & Coffee
+13h30  | Lunch
+17h30  | Final Presentations
+18h30 | Hackathon End
