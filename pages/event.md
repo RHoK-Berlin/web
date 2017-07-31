@@ -21,6 +21,26 @@ sidebar: right
 
 ## Agenda
 
-### Saturday, 12 August
+### Day 1
 
-### Sunday, 13 August
+ Time  | Saturday, 12 August
+ ------------- | ------------- 
+ 9h30  | Event begins: snacks and coffee
+ 11h00  | Projects Pitches
+ 11h30  | Socializing and team finding
+ 13h30 | Lunch
+ 20h30 | Venue closed for the night
+
+
+
+### Day 2
+
+ Time  | Sunday, 13 August
+ ------------- | ------------- 
+ 9h30  | Snacks and coffee
+ 13h30  | Lunch
+ 17h30  | Final presentation
+ 18h30 | Hackathon ends
+
+
+
