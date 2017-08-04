@@ -1,21 +1,17 @@
-- menu_name: "Dankeschön"
+- menu_name: We'd like to thank
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
+- name: Random Hacks of Kindness Global
+  url: http://rhok.cc/
+  title: Initiates global Random Hacks of Kindness
 
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
+- name: mindkeeper solutions GmbH
+  url: https://mindkeeper.solutions
+  title: For generously funding us
 
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
-  class: "rss-link"
-  title: "Images by Unsplash"
+- name: Social Digital Innovation
+  url: https://sdinnovation.org/
+  title: For partnering with us addressing social problems
 
-- name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
-  class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+- name: ReDi School of Digital Integration
+  url: https://www.redi-school.org/
+  title: For hosting the next event
