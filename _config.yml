@@ -31,7 +31,7 @@ credits: '<p>Created with &hearts; based on a template by <a href="http://phlow.
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://rhok-berlin.org/'
+url: 'http://rhok-berlin.org'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
