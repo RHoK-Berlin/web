@@ -1,7 +1,7 @@
 - menu_name: We'd like to thank
 
 - name: Random Hacks of Kindness Global
-  url: http://rhok.cc/
+  url: http://rhok.cc
   title: Initiates global Random Hacks of Kindness
 
 - name: mindkeeper solutions GmbH
@@ -9,9 +9,9 @@
   title: For generously funding us
 
 - name: Social Digital Innovation
-  url: https://sdinnovation.org/
+  url: https://sdinnovation.org
   title: For partnering with us addressing social problems
 
 - name: ReDi School of Digital Integration
-  url: https://www.redi-school.org/
+  url: https://www.redi-school.org
   title: For hosting the next event
