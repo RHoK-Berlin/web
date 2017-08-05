@@ -22,7 +22,7 @@ Kerstin Hafemeister
 ### Kontakt
 
 Telefon:	+49 (0) 30 69 20 77 911
-E-Mail:	reception@mindkeeper.soutions
+E-Mail:	rhok@mindkeeper.soutions
 
 ### Registereintrag
 

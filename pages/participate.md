@@ -31,4 +31,4 @@ You bring your prefered tool to work with (f.e. your laptop, pencils or whatever
 ></iframe>
 
 
-If you want to sponsor the event, work as a volunteer or contribute with some random awards of kindness please <a href="mailto:{{ 'eza@protonmail.ch' | encode_email }}" title="Contact us">contact us</a>.
+If you want to sponsor the event, work as a volunteer or contribute with some random awards of kindness please <a href="mailto:rhok@mindkeeper.solutions" title="Contact us">contact us</a>.
