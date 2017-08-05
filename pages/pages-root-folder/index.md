@@ -5,8 +5,6 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: white_background.jpg
 
 widget1:
   title: "You'd love see your projected hosted at RHoK?"
