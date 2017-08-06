@@ -29,6 +29,7 @@ Time  | Saturday, 12th August
 11h00  | Project Pitches
 11h30  | Socializing and Team Finding
 13h30 | Lunch
+18h00 | Snacks
 20h30 | Closing for Night
 
 ### Day 2
