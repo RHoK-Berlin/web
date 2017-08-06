@@ -19,7 +19,7 @@ widget2:
 widget3:
   title: "Random Hacks of Kindness..."
   url: "/about"
-  text: "are global hackathons facing pressing social challenges. We are a dynamic global community of innovators (hackers and makers) prototyping open technology to reveal solution approaches to actual problems."
+  text: "are global hackathons facing pressing social challenges. We are a dynamic global community of innovators (hackers and makers) prototyping open technology to find out ways to solve actual problems."
 
 
 #
