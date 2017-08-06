@@ -7,7 +7,7 @@
 layout: frontpage
 
 widget1:
-  title: "You'd love see your projected hosted at RHoK?"
+  title: "You'd love see your project hosted at RHoK?"
   url: "/submit"
   text: "Get in touch we're always searching for new challenges to RHoK!"
 
@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: /participate/
+  url: //participate/
   text: Participate! ›
   style: alert
 permalink: /index.html
